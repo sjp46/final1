@@ -194,6 +194,10 @@ p {
 }
 #footer {
   clear: both;
+  font-family: 'helvetica',sans-serif;
+  font-size: small;
+  font-style: italic;
+  font-weight: 600;   
 }
 #main_content {
   width: 545px;
