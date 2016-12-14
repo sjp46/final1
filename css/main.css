@@ -147,14 +147,14 @@ p {
 #logo {
   width: 367px;
   float: left;
-  background-color: white;
+  background-color: ghostwhite;
 }
 #menu {
   width: 562px;
   float: left;
   text-align: right;
   padding-right: 31px;
-  background-color: white;
+  background-color: ghostwhite;
 }
 #menu a {
   font-family: Sans-Serif;
@@ -164,7 +164,7 @@ p {
 #menu ul {
   margin: 0px;
   padding: 0px;
-  background-color: white;
+  background-color: ghostwhite;
 }
 #menu li {
   display: inline;
