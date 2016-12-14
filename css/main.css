@@ -142,15 +142,15 @@ p {
 #header {
    background-color: gray;
    height: 86px;
-   line-height: 86px;
+   line-height: 0px;
 }
 #logo {
-  width: 367px;
+  
   float: left;
   background-color: gainsboro;
 }
 #menu {
-  width: 562px;
+  width: 750px;
   float: left;
   text-align: right;
   padding-right: 31px;
