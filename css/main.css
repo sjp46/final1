@@ -179,10 +179,11 @@ p {
   height: 65px;
   ;
 }
-#callout1, #callout2, #callout3 {
-  float: left;
-  width: 320px;
+.callout {
   background-color: gainsboro;
+  display: inline-block;
+  padding: 0px 10px;
+  width: 297px;
 }
 #banner {
   clear: both;
@@ -217,9 +218,19 @@ p {
   width: 367px;
   float: left;
 }
-
-
-
+.product {
+  display:inline-block;
+  width:300px;
+}
+#ideapad {
+  width:300px;
+}
+#tablet {
+  width:300px;
+}
+#desktop {
+  width:300px;
+}
 
 
 
