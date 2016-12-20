@@ -221,16 +221,19 @@ p {
 .product {
   display:inline-block;
   width:300px;
-  padding-left: 10px;
+  
 }
 #ideapad {
   width:300px;
+  padding-left: 10px;
 }
 #tablet {
   width:300px;
+  padding-left: 10px;
 }
 #desktop {
   width:300px;
+  padding-left: 10px;
 }
 
 
