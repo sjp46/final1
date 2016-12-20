@@ -221,6 +221,7 @@ p {
 .product {
   display:inline-block;
   width:300px;
+  padding-left: 10px;
 }
 #ideapad {
   width:300px;
