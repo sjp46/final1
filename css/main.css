@@ -220,8 +220,11 @@ p {
 }
 .product {
   display:inline-block;
-  width:300px;
+  width:305px;
   
+}
+.products{
+  display:inline-block;
 }
 #ideapad {
   width:300px;
