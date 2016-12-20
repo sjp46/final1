@@ -177,6 +177,7 @@ p {
 }
 #logo img {
   height: 65px;
+  padding-left:20px;
   ;
 }
 .callout {
