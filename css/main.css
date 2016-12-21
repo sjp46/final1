@@ -94,7 +94,7 @@ h1,h2,h3,h4,h5,h6 {
 h1 { font-size: 200%;}
 h2 { font-size: 180%;}
 h3 { font-size: 160%;}
-h4 { font-size: 140%;}
+h4 { font-size: 140%;padding-left:40px;}
 h5 { font-size: 120%;}
 h6 { font-size: 100%;}
 
@@ -142,6 +142,13 @@ p {
    margin-right: auto;
    border: 1px solid;
 }
+#wrapper1 {
+   width: 960px;
+   margin-left: auto;
+   margin-right: auto;
+   border: 1px solid;
+   background-color: oldlace;
+ }
 #header {
    background-color: gray;
    height: 86px;
@@ -204,7 +211,6 @@ p {
   font-family: 'helvetica',sans-serif;
   font-size: small;
   font-style: italic;
-  font-weight: 600;   
 }
 #main_content {
   width: 545px;
@@ -218,6 +224,12 @@ p {
 
   width: 367px;
   float: left;
+
+}
+#sidebar1 {
+  width: 367px;
+  float:left;
+  background-color: lightskyblue;
 }
 .product {
   display:inline-block;
@@ -227,7 +239,7 @@ p {
 .products{
   display:inline-block;
 }
-#ideapad {
+#laptop {
   width:300px;
   padding-left: 10px;
 }
